@@ -2,7 +2,7 @@
 
 This is a minisite that based on my original FizzBuzz challenge minisite, this time build using .NET Core and MVC.
 
-![Screenshot](/FizzBuzzMVC/screenshot.png)
+![Screenshot](FizzBuzzMVC/screenshot.png)
 
 This project was created using .NET Core, C#, Bootstrap, HTML5, CSS3, and JavaScript.
 
