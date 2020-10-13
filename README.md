@@ -2,7 +2,7 @@
 
 This is a minisite that based on my original FizzBuzz challenge minisite, this time build using .NET Core and MVC.
 
-![Screenshot](screenshot.png)
+![Screenshot](/FizzBuzzMVC/screenshot.png)
 
 This project was created using .NET Core, C#, Bootstrap, HTML5, CSS3, and JavaScript.
 
@@ -14,7 +14,9 @@ Since its conception the Fizzbuzz challenge has been used by Facebook and Micros
 
 ## Installation
 
-To download and run locally, clone this repository and open index.html.
+This site is currently not live yet.
+
+However, to download and run locally, clone this repository and open index.html.
 
 ``` sourceCode
 git clone https://github.com/joshpters/FizzBuzzMVC
