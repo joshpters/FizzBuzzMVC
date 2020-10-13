@@ -16,7 +16,7 @@ Since its conception the Fizzbuzz challenge has been used by Facebook and Micros
 
 This site is currently not live yet.
 
-However, to download and run locally, clone this repository and open index.html.
+However, to download and run locally, clone this repository.
 
 ``` sourceCode
 git clone https://github.com/joshpters/FizzBuzzMVC
@@ -26,7 +26,7 @@ git clone https://github.com/joshpters/FizzBuzzMVC
 
 This is a basic form of the function that detects Fizz, Buzz, and FizzBuzz and returns a long string of output.
 
-Currently all data is sent by an Http Post request to the server and processed in C#, then the page is regenerated with the output.
+Currently all data is sent by an HTTP Post request to the server and processed in C#, then the page is regenerated and sent back with the output.
 
 ```c#
 [HttpPost]
